@@ -26,5 +26,5 @@ ip informed in the api.ts file after the --host flag:
 - If after the build is done and the metro bundler does not start, then in the application folder with the terminal, type:
 **yarn start**.
 
-<img src="https://github.com/LucasBarbosaFonseca/AppGoMarketplaceReactNative/blob/master/imagesApp/img1.jpeg" width="150">
-<img src="https://github.com/LucasBarbosaFonseca/AppGoMarketplaceReactNative/blob/master/imagesApp/img2.jpeg" width="150">
+<img src="https://github.com/LucasBarbosaFonseca/AppGoMarketplaceReactNative/blob/master/imagesApp/img1.jpeg" width="250">
+<img src="https://github.com/LucasBarbosaFonseca/AppGoMarketplaceReactNative/blob/master/imagesApp/img2.jpeg" width="250">
