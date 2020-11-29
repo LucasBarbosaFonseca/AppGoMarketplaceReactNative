@@ -10,6 +10,7 @@ in the shopping cart.
 ## Used tecnologies:
 - React Native;
 - React Hooks;
+- Typescript;
 - Styled components;
 - Json Server.
 
